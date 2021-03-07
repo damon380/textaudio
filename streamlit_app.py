@@ -1,12 +1,12 @@
 import streamlit as st
-from streamlit_lottie import st_lottie
-import streamlit_theme as stt
+#from streamlit_lottie import st_lottie
+#import streamlit_theme as stt
 import pyttsx3
 import pdfplumber
 import requests
 
 st.set_page_config(layout="wide")
-stt.set_theme({'primary': '#F20056'})
+#stt.set_theme({'primary': '#F20056'})
 
 
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
