@@ -6,4 +6,4 @@ streamlit_theme
 pyttsx3
 pdfplumber
 requests
-espeak
+
