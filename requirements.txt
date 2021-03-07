@@ -1,0 +1,10 @@
+requirements.txt
+altair
+pandas
+streamlit
+streamlit_lottie
+streamlit_theme 
+pyttsx3
+pdfplumber
+requests
+espeak
